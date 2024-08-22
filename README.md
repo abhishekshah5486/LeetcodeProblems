@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhishekshah5486/LeetcodeProblems/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/abhishekshah5486/LeetcodeProblems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/abhishekshah5486/LeetcodeProblems/tree/master/0047-permutations-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishekshah5486/LeetcodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -19,4 +20,5 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/abhishekshah5486/LeetcodeProblems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/abhishekshah5486/LeetcodeProblems/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
